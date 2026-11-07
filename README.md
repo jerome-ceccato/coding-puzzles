@@ -12,5 +12,5 @@
 | [1](https://autumncodewalk.github.io/problem/0/1/) | [Odin](https://odin-lang.org/) | [main.odin](./AutumnCodeWalk/p1/main.odin)|
 | [2](https://autumncodewalk.github.io/problem/0/2/) | [Odin](https://odin-lang.org/) | [main.odin](./AutumnCodeWalk/p2/main.odin) |
 | [3](https://autumncodewalk.github.io/problem/0/3/) | [Odin](https://odin-lang.org/) | [main.odin](./AutumnCodeWalk/p3/main.odin) |
-| [4](https://autumncodewalk.github.io/problem/0/4/) | — | — |
+| [4](https://autumncodewalk.github.io/problem/0/4/) | [Odin](https://odin-lang.org/) | [main.odin](./AutumnCodeWalk/p4/main.odin) |
 
